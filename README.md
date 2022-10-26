@@ -2,5 +2,5 @@
 
 Coding Journal:
 
-
-
+1: Basic Hangman Game 
+   (Implementing the use of proper functions)
